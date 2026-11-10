@@ -1,7 +1,7 @@
  
 <!-- ========================================= -->
 <!-- PREMIUM GITHUB PROFILE - BLACK EDITION    -->
-<!-- Replace YOUR_USERNAME with your username -->
+<!-- Replace YOUR_USERNAME with your username --> hairnx_
 <!-- ========================================= -->
 
 <div align="center">
